@@ -1,8 +1,7 @@
 {
-  "name": "mongodb",
-  "private": true,
+  "name": "sails101-mongo-native-queries",
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": "How do I use .native() to perform a raw Mongo query?",
   "keywords": [],
   "dependencies": {
     "sails": "~0.10.0-rc7",
@@ -30,8 +29,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikermcneil/mongodb.git"
+    "url": "git://github.com/sails101/mongo-native-queries.git"
   },
   "author": "mikermcneil",
-  "license": ""
+  "license": "MIT"
 }
